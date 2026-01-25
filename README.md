@@ -90,7 +90,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AvirajGitHub7/AvirajGitHub7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AvirajGitHub7/AvirajGitHub7/output/snake.svg"  />
+<img src="https://raw.githubusercontent.com/AvirajGitHub7/AvirajGitHub7/output/pacman.svg"  />
 
 ###
 
