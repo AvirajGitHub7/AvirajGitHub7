@@ -1,16 +1,16 @@
 <div align="center">
 
-# Aviraj Seal
-
-**Software Engineer | Full-Stack Developer | AI/ML Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Aviraj%20Seal&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 Guwahati, Assam, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-AvirajGitHub7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AvirajGitHub7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aviraj%20Seal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-seal-702a792bb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ivory-two-45.vercel.app/)
 
 </div>
 
----
+<br/>
 
 ## About
 
@@ -23,17 +23,7 @@ Software Engineer specializing in full-stack development, backend engineering, a
 **Software Engineering Intern** — Xopuntech Private Limited
 *June – July 2026*
 
-Worked on **Assessia**, a multi-tenant recruitment management system, contributing to:
-
-- Multi-tenant architecture with Tenant and Super Admin authentication
-- Role-based access control (RBAC)
-- Keycloak SSO integration with JWT authentication and token refresh handling
-- Pagination, search, and filtering across core modules
-- Tenant and user management
-- React frontend improvements and NestJS backend development
-- GitLab CI/CD and PM2-based deployment workflows
-- API design and technical documentation
-
+Worked on **Assessia**, a multi-tenant recruitment management system
 `React` `Vite` `Tailwind CSS` `shadcn/ui` `NestJS` `TypeORM` `MySQL` `Keycloak` `JWT` `GitLab CI/CD` `PM2`
 
 ---
@@ -116,7 +106,6 @@ AI-powered developer tool for analyzing and understanding software repositories.
 
 ---
 
-
 ## Areas of Focus
 
 `Full-Stack Engineering` `Backend Engineering` `REST API Development` `Multi-Tenant SaaS` `AI/ML Applications` `Computer Vision` `AI-Powered Developer Tools` `Agricultural Technology` `Automation & Productivity Software`
@@ -126,25 +115,15 @@ AI-powered developer tool for analyzing and understanding software repositories.
 ## Education
 
 **B.Tech, Computer Science & Engineering** — Assam University, Silchar
-*2023 – 2027* ·
+*2023 – 2027*
 
 ---
 
 ## Connect
 
 - **GitHub:** [AvirajGitHub7](https://github.com/AvirajGitHub7)
-- **LinkedIn:** [https://www.linkedin.com/in/aviraj-seal-702a792bb/]
-- **Portfolio:** [https://portfolio-ivory-two-45.vercel.app/]
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvirajGitHub7&layout=compact&hide_border=true" height="165" />
-
-</div>
-
+- **LinkedIn:** [Aviraj Seal](https://www.linkedin.com/in/aviraj-seal-702a792bb/)
+- **Portfolio:** [portfolio-ivory-two-45.vercel.app](https://portfolio-ivory-two-45.vercel.app/)
 
 ---
 
@@ -152,5 +131,13 @@ AI-powered developer tool for analyzing and understanding software repositories.
 
 <img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvirajGitHub7&layout=compact&theme=default&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvirajGitHub7&theme=default&hide_border=true" height="165" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=100&section=footer" width="100%"/>
 
 </div>
