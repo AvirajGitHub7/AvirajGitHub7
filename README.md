@@ -1,86 +1,155 @@
-<h1 align="center">Hi, I'm Aviraj Seal </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Engineer;MERN+Stack+Expert;AI+Researcher" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvirajGitHub7&theme=dracula&area=true&hide_border=true" width="100%" />
+
+# Aviraj Seal
+
+**Software Engineer | Full-Stack Developer | AI/ML Developer**
+
+Guwahati, Assam, India
+
+[![GitHub](https://img.shields.io/badge/GitHub-AvirajGitHub7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AvirajGitHub7)
+
 </div>
 
-<p align="center">
-  <strong>🚀 B.Tech CSE @ Assam University, Silchar</strong><br>
-  Bridging the gap between <b>Deep Learning</b> and <b>Scalable Web Architecture</b>.
-</p>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aviraj-seal-702a792bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:avirajseal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## About
+
+Software Engineer specializing in full-stack development, backend engineering, and AI/ML-powered products. I build scalable web applications and practical machine learning systems, with hands-on experience across REST APIs, authentication, databases, and deployment pipelines — from multi-tenant SaaS platforms to computer vision applications.
 
 ---
 
-### ⚡ Technical Spotlight
+## Experience
 
-- 🤖 **ML/AI:** Deep Learning, Computer Vision (YOLOv8), & Predictive Analytics.
-- 💻 **Web:** Architecting high-concurrency apps with Next.js, Stripe, & Node.js.
-- 🔬 **Research:** AI-Based Crop Disease Detection for North-East India (Assam/Meghalaya).
-- 🛠️ **Strategy:** I focus on **deployment**—making sure models work in production, not just in Jupyter.
+**Software Engineering Intern** — Xopuntech Private Limited
+*June – July 2026*
 
----
+Worked on **Assessia**, a multi-tenant recruitment management system, contributing to:
 
-### 🛠️ My Tech Stack
+- Multi-tenant architecture with Tenant and Super Admin authentication
+- Role-based access control (RBAC)
+- Keycloak SSO integration with JWT authentication and token refresh handling
+- Pagination, search, and filtering across core modules
+- Tenant and user management
+- React frontend improvements and NestJS backend development
+- GitLab CI/CD and PM2-based deployment workflows
+- API design and technical documentation
 
-**Programming & Logic**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,ts,cpp" />
-</p>
-
-**Web Development (MERN+)**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgre,tailwind,firebase,html,css" />
-</p>
-
-**Data Science & AI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,matplotlib" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40" />
-</p>
-
-**DevOps & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm,postman,jupyter" />
-</p>
+`React` `Vite` `Tailwind CSS` `shadcn/ui` `NestJS` `TypeORM` `MySQL` `Keycloak` `JWT` `GitLab CI/CD` `PM2`
 
 ---
 
-### 🚀 Featured Technical Projects
+## Tech Stack
 
-#### 🚦 Traffic Vehicle Detection System
-**Stack:** `Python` • `YOLOv8n` • `PyTorch` • `FastAPI` • `Docker` • `Next.js`
-- Trained **YOLOv8n** on 923 annotated images (7 classes); achieved **mAP@50: 0.783** with inference at **~2.7 ms/image**.
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart&perline=6" /></p>
 
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&perline=6" /></p>
 
-#### 🌾 Crop Disease Detection (DL Classifier)
-**Stack:** `Python` • `TensorFlow` • `Keras` • `MobileNetV2` • `OpenCV`
-- Fine-tuned **MobileNetV2** achieving **~94% validation accuracy**; built augmentation pipelines (rotation, flip, zoom).
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&perline=6" /></p>
 
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite&perline=6" /></p>
 
-#### 💳 Credit Card Fraud Detection
-**Stack:** `Python` • `Scikit-learn` • `Pandas` • `NumPy`
-- Built a supervised ML pipeline on **9,000+ records**; handled class imbalance and optimized for **AUC-ROC** and **F1-score**.
+**AI / ML**
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=6" /></p>
 
-#### 📺 AnimeLover — Full-Stack MERN
-**Stack:** `MongoDB` • `Express.js` • `React.js` • `Node.js` • `JWT` • `Nodemailer`
-- Architected **JWT-authenticated REST APIs** with role-based access control and responsive React.js UI.
+Also: Hugging Face · Pandas · NumPy · YOLO · Deep Learning · Computer Vision
+
+**Tools & DevOps**
+<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vercel&perline=6" /></p>
+
+**Other:** REST APIs · JWT · Keycloak · Prisma · Swagger
 
 ---
 
-### 📊 Vital Signs
+## Featured Projects
+
+### Assessia — Recruitment Management System
+Multi-tenant recruitment and applicant tracking platform built during my internship at Xopuntech.
+
+**Highlights:** Multi-tenant architecture · Super Admin & tenant-level access · Role-based auth · Job/application/interview management · Keycloak SSO · JWT with token refresh · CI/CD deployment
+
+`React` `Vite` `Tailwind CSS` `shadcn/ui` `NestJS` `TypeORM` `MySQL` `Keycloak` `JWT`
+
+---
+
+### KrishakBondhon
+Agriculture-focused mobile platform combining farmer services, plant disease detection, and AI-powered assistance, built with a separate app server and model server architecture.
+
+**Highlights:** Deep-learning based plant disease classification · Farmer forum/community · AI agricultural chatbot with voice interaction · Expert assistance module
+
+`Flutter` `Dart` `Computer Vision` `Deep Learning`
+
+---
+
+### Sentinel AI
+AI-powered cybercrime and fraud analysis platform built for a hackathon (team project).
+
+**Highlights:** Multi-format fraud evidence analysis (screenshots, SMS, email, URL, PDF, audio) · AI-assisted scam classification with risk/confidence scoring · Fraud network relationship mapping across phone numbers, UPI IDs, bank details, and devices · Law-enforcement dashboard with regional analytics
+
+`React` `FastAPI` `PostgreSQL` `Supabase` `Gemini`
+
+---
+
+### Traffic Sentry
+Computer vision–based traffic monitoring system using a custom-trained object detection model.
+
+**Highlights:** YOLOv8n trained on a custom 23-class traffic dataset (5,254 training / 1,470 validation images) · FastAPI backend · Next.js frontend
+
+`YOLOv8` `Python` `FastAPI` `Next.js` `Docker`
+
+---
+
+### GestureOS
+Computer vision–based gesture interaction system for hand gesture recognition and gesture-driven software control.
+
+`Next.js 15` `MediaPipe Hands`
+
+---
+
+### RepoLens AI
+AI-powered developer tool for analyzing and understanding software repositories.
+
+`Next.js` `Firebase` `Firestore` `Gemini`
+
+---
+
+### FoodSaaS
+QR-based restaurant ordering SaaS platform with owner authentication, digital menus, and analytics.
+
+**Highlights:** QR-based table ordering · Cart & order management · Super Admin panel · Monthly revenue/order reports · Automated report cleanup
+
+`MERN Stack`
+
+---
+
+## Areas of Focus
+
+`Full-Stack Engineering` `Backend Engineering` `REST API Development` `Multi-Tenant SaaS` `AI/ML Applications` `Computer Vision` `AI-Powered Developer Tools` `Agricultural Technology` `Automation & Productivity Software`
+
+---
+
+## Education
+
+**B.Tech, Computer Science & Engineering** — Assam University, Silchar
+*2023 – 2027* ·
+
+---
+
+## Connect
+
+- **GitHub:** [AvirajGitHub7](https://github.com/AvirajGitHub7)
+- **LinkedIn:** [https://www.linkedin.com/in/aviraj-seal-702a792bb/]
+- **Portfolio:** [https://portfolio-ivory-two-45.vercel.app/]
+
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvirajGitHub7&layout=compact&theme=dracula&border_radius=10" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvirajGitHub7&layout=compact&theme=default&hide_border=true" height="165" />
+
 </div>
