@@ -129,9 +129,6 @@ AI-powered developer tool for analyzing and understanding software repositories.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvirajGitHub7&layout=compact&theme=default&hide_border=true" height="165" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvirajGitHub7&theme=default&hide_border=true" height="165" />
