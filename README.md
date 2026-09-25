@@ -116,14 +116,6 @@ AI-powered developer tool for analyzing and understanding software repositories.
 
 ---
 
-### FoodSaaS
-QR-based restaurant ordering SaaS platform with owner authentication, digital menus, and analytics.
-
-**Highlights:** QR-based table ordering · Cart & order management · Super Admin panel · Monthly revenue/order reports · Automated report cleanup
-
-`MERN Stack`
-
----
 
 ## Areas of Focus
 
@@ -143,6 +135,15 @@ QR-based restaurant ordering SaaS platform with owner authentication, digital me
 - **GitHub:** [AvirajGitHub7](https://github.com/AvirajGitHub7)
 - **LinkedIn:** [https://www.linkedin.com/in/aviraj-seal-702a792bb/]
 - **Portfolio:** [https://portfolio-ivory-two-45.vercel.app/]
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AvirajGitHub7&show_icons=true&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvirajGitHub7&layout=compact&hide_border=true" height="165" />
+
+</div>
 
 
 ---
